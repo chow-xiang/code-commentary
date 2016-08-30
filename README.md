@@ -1,3 +1,3 @@
-# code-note
+# code-commentary
 
-this is some intresting note for code.
+this is some intresting commentary for code.
